@@ -1,5 +1,0 @@
-My First Git Practical
-
-This is Experiment 1.
-I am learning basic Git commands.
-This file will be added to the staging area and committed to the Git repository.
