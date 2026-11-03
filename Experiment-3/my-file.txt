@@ -1,0 +1,5 @@
+This is my original project.
+Experiment 3 - Git Stash
+
+These are my unfinished changes.
+I will temporarily save them using Git Stash.
