@@ -1,0 +1,5 @@
+This is my original project.
+Experiment 6 - Git Merge
+
+This change is made in feature-branch.
+This is for Experiment 6.
